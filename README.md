@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Data Engineering<br>🎯 Goals: Reach my peak at Problem Solving<br>🎲 Fun fact: </p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Data Engineering<br>🎯 Goals: Reach my peak at Problem Solving<br>🎲 Fun fact: A palindromic triangle formed from numbers can be formed by multiples of (11)</p>
 
 ###
 
